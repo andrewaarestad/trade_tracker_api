@@ -1,0 +1,50 @@
+[
+  {
+    "user_id": 1,
+    "type": "unpaired",
+    "is_open": true,
+    "underlying_instrument_id": 1,
+    "brokerage_account_id": 1,
+    "entry_time": "2021-02-03 22:37:45.758000"
+  },
+  {
+    "user_id": 1,
+    "type": "unpaired",
+    "is_open": true,
+    "underlying_instrument_id": 2,
+    "brokerage_account_id": 1,
+    "entry_time": "2021-02-03 22:37:45.758000"
+  },
+  {
+    "user_id": 1,
+    "type": "unpaired",
+    "is_open": true,
+    "underlying_instrument_id": 3,
+    "brokerage_account_id": 1,
+    "entry_time": "2021-02-03 22:37:45.758000"
+  },
+  {
+    "user_id": 1,
+    "type": "covered_call",
+    "is_open": true,
+    "underlying_instrument_id": 3,
+    "brokerage_account_id": 1,
+    "entry_time": "2021-02-03 22:37:45.758000"
+  },
+  {
+    "user_id": 1,
+    "type": "bull_put",
+    "is_open": true,
+    "underlying_instrument_id": 2,
+    "brokerage_account_id": 1,
+    "entry_time": "2021-02-03 22:37:45.758000"
+  },
+  {
+    "user_id": 1,
+    "type": "bull_call",
+    "is_open": true,
+    "underlying_instrument_id": 1,
+    "brokerage_account_id": 1,
+    "entry_time": "2021-02-03 22:37:45.758000"
+  }
+]

@@ -1,0 +1,10 @@
+config/tdaclientauth.json
+**/*.DS_Store
+
+dist
+
+.idea
+node_modules
+.env
+knexfile.js
+

@@ -1,0 +1,54 @@
+[
+  {
+    "type": "stock",
+    "symbol": "AAPL"
+  },
+  {
+    "type": "stock",
+    "symbol": "F"
+  },
+  {
+    "type": "stock",
+    "symbol": "TSLA"
+  },
+  {
+    "type": "option",
+    "symbol": "TSLA210219C900",
+    "underlying_instrument_id": 3,
+    "expiration": "2021-02-19",
+    "strike": 900,
+    "put_call": "C"
+  },
+  {
+    "type": "option",
+    "symbol": "F210326P00016500",
+    "underlying_instrument_id": 2,
+    "expiration": "2021-02-19",
+    "strike": 10,
+    "put_call": "P"
+  },
+  {
+    "type": "option",
+    "symbol": "F210326C00014000",
+    "underlying_instrument_id": 2,
+    "expiration": "2021-02-19",
+    "strike": 9,
+    "put_call": "P"
+  },
+  {
+    "type": "option",
+    "symbol": "AAPL210219C135",
+    "underlying_instrument_id": 1,
+    "expiration": "2021-02-19",
+    "strike": 135,
+    "put_call": "C"
+  },
+  {
+    "type": "option",
+    "symbol": "AAPL210219C140",
+    "underlying_instrument_id": 1,
+    "expiration": "2021-02-19",
+    "strike": 140,
+    "put_call": "C"
+  }
+]

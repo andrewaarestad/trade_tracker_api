@@ -1,0 +1,122 @@
+[
+  {
+    "user_id": 1,
+    "instrument_id": 1,
+    "position_set_id": 1,
+    "entry_time": "2021-02-03 22:37:45.758000",
+    "current_quantity": 100,
+    "entry_quantity": 100,
+    "entry_price": 11.45,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 2,
+    "position_set_id": 2,
+    "entry_time": "2021-02-03 22:37:45.758000",
+    "current_quantity": 100,
+    "entry_quantity": 100,
+    "entry_price": 1.22,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 2,
+    "position_set_id": 2,
+    "entry_time": "2021-02-03 22:37:45.758000",
+    "current_quantity": 300,
+    "entry_quantity": 300,
+    "entry_price": 3.10,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 3,
+    "position_set_id": 3,
+    "entry_time": "2021-02-03 22:37:45.758000",
+    "current_quantity": 100,
+    "entry_quantity": 100,
+    "entry_price": 420,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 3,
+    "position_set_id": 3,
+    "entry_time": "2021-02-03 22:37:45.758000",
+    "current_quantity": 100,
+    "entry_quantity": 100,
+    "entry_price": 500,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 3,
+    "position_set_id": 3,
+    "entry_time": "2021-02-03 22:37:45.758000",
+    "current_quantity": 50,
+    "entry_quantity": 50,
+    "entry_price": 800,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 3,
+    "position_set_id": 4,
+    "entry_time": "2021-02-04 22:37:45.758000",
+    "current_quantity": 100,
+    "entry_quantity": 100,
+    "entry_price": 700,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 4,
+    "position_set_id": 4,
+    "entry_time": "2021-02-04 22:37:45.758000",
+    "current_quantity": -1,
+    "entry_quantity": -1,
+    "entry_price": 12.34,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 5,
+    "position_set_id": 5,
+    "entry_time": "2021-02-05 22:37:45.758000",
+    "current_quantity": -1,
+    "entry_quantity": -1,
+    "entry_price": 0.45,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 6,
+    "position_set_id": 5,
+    "entry_time": "2021-02-05 22:37:45.758000",
+    "current_quantity": 1,
+    "entry_quantity": 1,
+    "entry_price": 0.25,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 7,
+    "position_set_id": 6,
+    "entry_time": "2021-02-05 22:37:45.758000",
+    "current_quantity": 1,
+    "entry_quantity": 1,
+    "entry_price": 1.40,
+    "brokerage_account_id": 1
+  },
+  {
+    "user_id": 1,
+    "instrument_id": 8,
+    "position_set_id": 6,
+    "entry_time": "2021-02-05 22:37:45.758000",
+    "current_quantity": -1,
+    "entry_quantity": -1,
+    "entry_price": 0.65,
+    "brokerage_account_id": 1
+  }
+]
